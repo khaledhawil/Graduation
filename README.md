@@ -14,6 +14,6 @@ With a user-friendly interface and customizable settings, our app is designed to
 soon
  
 
-
+Basal Metabolic Rate (BMR) calculator that will calculate the number of calories required to keep your body functioning at rest
 
 
