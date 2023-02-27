@@ -16,17 +16,17 @@ soon
 ## BMR
 Basal Metabolic Rate (BMR) calculator that will calculate the number of calories required to keep your body functioning at rest
 
-##BMI
+## BMI
 BMI, or Body Mass Index, is a measure of body fat based on your weight and height. It can be used to determine if you are underweight, normal weight, overweight, or obese. However, BMI does not take into account other factors such as muscle mass or body composition
 
-##TDEE
+## TDEE
 TDEE, or Total Daily Energy Expenditure, is the number of calories your body burns in a day. It takes into account your Basal Metabolic Rate (BMR) and your physical activity level. Knowing your TDEE can help you determine how many calories you need to consume to maintain, lose, or gain weight.
 
 ## BFP
  Body Fat Percentage, is a measure of the proportion of fat in your body compared to your total body weight. It can be estimated through various methods such as  Height, neck, waist, and hip measurements are factors that can be used to calculate BFP and can provide insight into your body composition and overall health.
-##EER
+## EER
  EER, or Estimated Energy Requirement, is the number of calories an individual needs to consume per day to maintain their current weight. It takes into account factors such as age, gender, weight, height, and physical activity level. Knowing your EER can help you determine how many calories you need to consume to maintain, lose, or gain weight.
  
-##WHR
+## WHR
  Waist-to-Hip Ratio, is a measure of body fat distribution that compares the circumference of the waist to that of the hips. It is calculated by dividing the waist circumference by the hip circumference. A higher WHR indicates more fat stored around the waist and is associated with an increased risk of health problems such as heart disease and diabetes. Knowing your WHR can help you assess your risk for these health problems and inform your weight loss or fitness goals.
  
